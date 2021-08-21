@@ -11,8 +11,11 @@ Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş Spanker#4872]
 
 # 2. Moderasyon Sistemi
 **`-` Kayıt Sistemi. Çok fazla Anlatmaya Gerek Duymuyorum Klasik Kayıt. [Moderasyon Botunun İçindedir.]**
+
 ![Adsız](https://spanker.is-a.fail/57JzyH_or.png)
+
 ![Adsız](https://spanker.is-a.fail/57JzBDvPe.png)
+
 ![Adsız](https://spanker.is-a.fail/57JzGHdn3.png)
 
 # 3. Moderasyon Sistemi
