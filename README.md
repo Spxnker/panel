@@ -1,3 +1,8 @@
+# NE ZAMAN PAYLAŞILCAK?
+
+40 Fork ve 70 Star Olduğun 'da Paylaşılacaktır.
+Proje Hazırdır. Anında Paylaşılcak.
+
 # Discord Moderasyon Sistemi
 
 Birbirin 'den güzel 4 tane **Moderasyon Sistemi** Sunuyorum.
@@ -40,3 +45,21 @@ npm install => Gerekli Bütün Modülleri Yükler.
 
 `-` ⚠️ Boş Bırakırsanız Hata Verecektir.
 
+
+
+# Çalıştırma:
+
+```sh
+node spanker.js => Terminal Kısmına Yazılacaktır.
+```
+# Dostlarım:
+
+Null 'un 800 Satırlık Guardı https://github.com/This-null/null-guard-bot 
+
+Shinoa 'nın Guardı https://github.com/Britishkun/shinoa-guard
+
+Totika Hanımın Reaction Rol Botu https://github.com/Totikaxrd/reaction-Rolebot
+
+Alyenin Stat Botu https://github.com/AlyenJS/stats-v12
+
+Miafın Url Spammer Botu https://github.com/MiafJs/Discord.js-vanity-url-spammer
