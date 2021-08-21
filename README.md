@@ -8,7 +8,7 @@
 
 **BU BOT SHİNOA VE SPANKER TARAFIN 'DAN YAPILMIŞTIR.**
 
-Birbirin 'den güzel 4 tane **Moderasyon Sistemi** Sunuyorum.
+Birbirin 'den güzel 3 tane **Moderasyon Sistemi** Sunuyorum.
 
 Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş Spanker#4872]**
 
