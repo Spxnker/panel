@@ -1,7 +1,8 @@
 # NE ZAMAN PAYLAŞILCAK?
 
-40 Fork ve 70 Star Olduğun 'da Paylaşılacaktır.
-Proje Hazırdır. Anında Paylaşılcak.
+**40 Fork ve 70 Star Olduğun 'da Paylaşılacaktır.
+
+Proje Hazırdır. Anında Paylaşılcak.**
 
 # Discord Moderasyon Sistemi
 
