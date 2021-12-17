@@ -1,8 +1,6 @@
-# NE ZAMAN PAYLAŞILCAK?
+# 70 starda fork istemiyor
 
-**40 Fork ve 70 Star Olduğun 'da Paylaşılacaktır.**
 
-**Proje Hazırdır. Anında Paylaşılcak.**
 
 # Discord Moderasyon Sistemi
 
