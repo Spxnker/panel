@@ -2,7 +2,7 @@
 "botSettings": {
     "botToken": ",
     "botVoiceChannel": "844511002418872351",
-    "botOwners": ["820361956644093972", "461212138346905600"],
+    "botOwners": ["820361956644093972", ""],
     "prefix": ".",
     "setFooter": "Spanker 💙 null"
 },
