@@ -1,0 +1,75 @@
+{
+"botSettings": {
+    "botToken": "ODM3MjI0Nzg5NDU3MjQwMDc4.YIpcWA.Zn1HCy180WjNTc1TlWle0ytV4d8",
+    "botVoiceChannel": "844511002418872351",
+    "botOwners": ["820361956644093972", "461212138346905600"],
+    "prefix": ".",
+    "setFooter": "Spanker 💙 Shinoa"
+},
+"mongoose": {
+    "mongoPath": "mongodb+srv://mustafa00742:1234mkMK@cluster0.u3ji1.mongodb.net/spanker?retryWrites=true&w=majority"
+},
+"guildSettings": {
+    "guildID": "842141062960119859",
+    "guildName": "Cléra",
+    "tag": ["Cléra"],
+    "invite": "discord.gg/1971"
+},
+"guildHammer": {
+    "jailHammer": "844179252210958356",
+    "banHammer": "844179251007324221",
+    "muteHammer": "844179253264121918",
+    "vmuteHammer": "844179253264121918",
+    "auth": "844179254580609035",
+    "yts": ["844179223359127612","844179228046917673","844179231201165342"]
+},
+"guildLogs": {
+"banLogs": "844512064424378388",
+"jailLogs": "844512093578461184",
+"muteLogs": "844512120985092106",
+"vmuteLogs": "844512145206542377",
+"welcome": "844179383975542794",
+"otoRoleLogs": "844512428087836672",
+"susLogs": "844512428087836672",
+"tagLogs": "844512503165616148",
+"spotifyChannel": "GEREK YOK BUNA",
+"banLimit" : "844512539970109460",
+"chat": "844179409228398613"
+},
+
+"guildRoles": {
+    "jailRole": "844179278547517440",
+    "vmuteRole":"EKLESEDE Bİ SİK DEGİSMEZ",
+    "muteRole": "844179280275046432",
+    "boosterRole": "842367623089750027",
+    "unregister": ["844179275505991681", "844179276869795891"],
+    "sus": "844179279369732108"
+},
+"reg": {
+    "regHammer":"844179255092838421",
+    "erkekRoles": ["844179272159199252", "844179272494219316", "844179273785802782"],
+    "kariRoles": ["844179269042307093", "844179270024822815", "844179271282065419"],
+    "familyRole": "842141062998654987"
+
+},
+"yetkiliRole": {
+    "enAltYetkiliRole": "842141062998654987"
+},
+"emojiler": {
+    "mute": "",
+    "unmute": "",
+    "def": "",
+    "undef": "",
+    "onay": "<a:spankeronay:844186230551347201>",
+    "red": "<a:spankeriptal:844186231612244009>" 
+},
+"yasakliTag": {
+    "yasakliTagRole": "844179278547517440"
+},
+"ekstraRoles": {
+"vip": "844179267474554880",
+"lovers": "844179286725230592",
+"muzisyen": "844179263665864754",
+"sponsor": "844179262890442762"
+}
+}

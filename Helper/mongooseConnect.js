@@ -1,0 +1,1 @@
+module.exports = (mongoose,settings) => mongoose.connect(settings.mongoose.mongoPath, { useNewUrlParser: true, useUnifiedTopology: true ,useFindAndModify: true}).then(console.log("Mongoose bağlandı!\n"+ mongoose.connections[0]._connectionString)).catch(err => console.log(err.message));
