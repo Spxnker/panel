@@ -1,3 +1,1 @@
-# Paylaşıldı
-
-
+Eski ortağımla yaptığım bot
