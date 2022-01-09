@@ -1,13 +1,13 @@
 {
 "botSettings": {
-    "botToken": "ODM3MjI0Nzg5NDU3MjQwMDc4.YIpcWA.Zn1HCy180WjNTc1TlWle0ytV4d8",
+    "botToken": ",
     "botVoiceChannel": "844511002418872351",
     "botOwners": ["820361956644093972", "461212138346905600"],
     "prefix": ".",
-    "setFooter": "Spanker 💙 Shinoa"
+    "setFooter": "Spanker 💙 null"
 },
 "mongoose": {
-    "mongoPath": "mongodb+srv://mustafa00742:1234mkMK@cluster0.u3ji1.mongodb.net/spanker?retryWrites=true&w=majority"
+    "mongoPath": ""
 },
 "guildSettings": {
     "guildID": "842141062960119859",
