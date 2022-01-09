@@ -1,4 +1,4 @@
-# 09.01.2022 eve ne zaman geçersem en geç 22.00 da paylaşılcak
+# Paylaşıldı
 
 
 
